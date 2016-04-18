@@ -1,0 +1,37 @@
+{
+  "name": "grunt-load-bundles",
+  "description": "Load bundles of custom tasks and options defined in a clean directory structure.",
+  "homepage": "https://github.com/lucaslopez/grunt-load-bundles",
+  "license": "MIT",
+  "version": "0.1.0",
+  "author": {
+    "name": "Lucas L. Lopez",
+    "email": "lucas.lopez@gmail.com",
+    "url": "http://www.lucaslopez.net"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucaslopez/grunt-load-bundles.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lucaslopez/grunt-load-bundles/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/lucaslopez/grunt-load-bundles/blob/master/LICENSE-MIT"
+    }
+  ],
+  "devDependencies": {
+    "glob": "^5.0.14",
+    "load-grunt-config": "^0.17.2"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
